@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <PokedexHeader author={'@navin_c'} name={'Navin'} />
+      <PokedexHeader author={' @navin_c'} name={'Navin'} />
     </div>
   );
 }
